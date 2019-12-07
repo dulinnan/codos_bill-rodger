@@ -54,7 +54,7 @@ $black			: #222;
   --font-sans-serif: "Lato";
   --box-shadow: 0px 5px 8px 0px rgba(8, 40, 34, 0.89);
   --color-bg: #0d3029;
-  --grad-bright: linear-gradient(-55deg, #8490ff 0%, #62bdfc 100%);
+  --grad-bright: linear-gradient(-55deg, #040831 0%, #003458 100%);
   --grad-dark: linear-gradient(-55deg, #248391 0%, #8fc2c9 100%);
   --fig-width: 100%;
   --fig-height: 100%;
